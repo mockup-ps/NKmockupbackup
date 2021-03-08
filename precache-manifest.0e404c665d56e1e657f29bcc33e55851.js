@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63767907d5fff0d168b0624124051a2b",
+    "revision": "a3b6bb165a738c5944c48ab1713290a5",
     "url": "/NKmockupbackup/index.html"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NKmockupbackup/static/css/31.b26df3bb.chunk.css"
   },
   {
-    "revision": "60477b3063a9f26332de",
+    "revision": "2ad4c5ac556488a70524",
     "url": "/NKmockupbackup/static/css/main.d87443cb.chunk.css"
   },
   {
@@ -336,8 +336,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NKmockupbackup/static/js/8.d1924b79.chunk.js"
   },
   {
-    "revision": "60477b3063a9f26332de",
-    "url": "/NKmockupbackup/static/js/main.272647a2.chunk.js"
+    "revision": "2ad4c5ac556488a70524",
+    "url": "/NKmockupbackup/static/js/main.ef3f1e87.chunk.js"
   },
   {
     "revision": "06a9d0dd0e7ad3829ff1",
